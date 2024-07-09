@@ -1,1 +1,161 @@
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
 
+.card{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+body {
+  border-radius: 5px;
+  /* margin: 20px; */
+  background-image: url("https://media.istockphoto.com/photos/colorful-clouds-on-sunset-sky-nature-background-picture-id911793978?b=1&k=20&m=911793978&s=170667a&w=0&h=SaFPGfB4Sw3hwGpPJjnGDmK1m_XQBNXDtzWdH8gr1Jk=");
+  /* background-repeat: no-repeat; */
+  background-size: cover;
+}
+
+.topnav a:hover{
+  background-color: #FFADC2;
+}
+
+.navbar-right{
+  float: right;
+}
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+
+
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover{
+  background-color: #FFADC2;
+}
+
+.navbar-right{
+  float: right;
+}
+
+.elementary{
+  font-size: 20px;
+  font-style: bold;
+  background-color: #FC88A5;
+  padding: 25px;
+  margin-left: 200px;
+  margin-right: 100px;
+  margin-top: 150px;
+  margin-bottom: 25px;
+  color: white;
+  border-color: white;
+  border-radius: 1000px;
+  align-items: center;
+}
+
+.middle{
+  font-size: 20px;
+  font-style: bold;
+  background-color: #FC88A5;
+  padding: 25px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 150px;
+  margin-bottom: 25px;
+  color: white;
+  border-color: white;
+  border-radius: 1000px;
+  align-items: center;
+}
+
+.higher{
+  font-size: 20px;
+  font-style: bold;
+  background-color: #FC88A5;
+  padding: 25px;
+  margin-left: 200px;
+  margin-right: 100px;
+  margin-top: 150px;
+  margin-bottom: 25px;
+  color: white;
+  border-color: white;
+  border-radius: 1000px;
+  align-items: center;
+}
+
+.imposterSynd{
+  font-size: 20px;
+  font-style: bold;
+  background-color: #FC88A5;
+  padding: 25px;
+  margin-left: 100px;
+  margin-right: 200px;
+  margin-top: 150px;
+  margin-bottom: 25px;
+  color: white;
+  border-color: white;
+  border-radius: 1000px;
+  align-items: center;
+}
+
+
+.one{
+  padding-top: 50px;
+  text-align: center;
+  font-size: 80px;
+  color: white;
+
+}
+
+.two{
+  text-align: center;
+  color: white;
+}
+
+.display-4{
+  text-align: center;
+  color: white;
+  background-color: #d98cb3;
+  font-size: 80px;
+  font-style: bold;
+}
+
+.lead{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+.card-body{
+  text-align: center;
+}
+
+.btn-primary{
+  background-color: pink;
+font-size: 10px;
+  border-color: white;
+}
+
+.card-title{
+  background-color: pink;
+}
+
+.jumbotron-fluid{
+  background-color: #d98cb3;
+  margin-top: 30px;
+}
